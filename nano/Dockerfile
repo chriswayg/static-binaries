@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:buster
 MAINTAINER Andrew Dunham <andrew@du.nham.ca>
 
 # Install build tools
